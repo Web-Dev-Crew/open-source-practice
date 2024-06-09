@@ -66,15 +66,25 @@ git clone https://github.com/Web-Dev-Crew/open-source-practice.git .
 
 
 - push your changes into your remote repository in github: `git push -u origin branchName` (here you might get prompted to enter your email and name if its your first time, also a login into github)
+
 <br/>
+
 ![image](https://github.com/MhL5/open-source-practice/assets/135700087/854bbdfd-8b9b-4b5d-99d7-acf50ad68b0c)
 
 
 
 ### 4. Sending a pull request
 
-- open your forked repository on github
-- send a pull request
-- write a description
+- open your forked repository on github and click on `compare & pull request`
+![image](https://github.com/MhL5/open-source-practice/assets/135700087/a334d4eb-a91b-4304-918f-fe584f975560)
 
-- Done
+
+- send a pull request
+( you should compare `Web-Dev-Crew/open-source-practice` `main` with your `forked repository` `the branch you made`
+![image](https://github.com/MhL5/open-source-practice/assets/135700087/819a2f22-a039-49ea-914d-309756c01c71)
+
+
+
+- write a title and a description and create your own first pull request
+
+- now your Done, sit tight and wait for your pull request to be merged.
