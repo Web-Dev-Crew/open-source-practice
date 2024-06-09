@@ -4,7 +4,7 @@ Repository for you to raise a Pull Request to practice open-source! 🎉
 
 ## tools
 
-before we begin you should install git on your computer : [git](https://www.git-scm.com/)
+before we begin you should install git on your computer : [download git](https://www.git-scm.com/)
 
 ## Steps 🪜
 
