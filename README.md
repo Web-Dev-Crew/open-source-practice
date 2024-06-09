@@ -65,8 +65,8 @@ git clone https://github.com/Web-Dev-Crew/open-source-practice.git .
   ![image](https://github.com/MhL5/open-source-practice/assets/135700087/1ead3866-e0ea-4b97-999e-7d9ba314f2ca)
 
 
-- push your changes into your remote repository in github: `git push -u origin branchName`
-(here you might get prompted to enter your email and name if its your first time, also a login into github)
+- push your changes into your remote repository in github: `git push -u origin branchName` (here you might get prompted to enter your email and name if its your first time, also a login into github)
+<br/>
 ![image](https://github.com/MhL5/open-source-practice/assets/135700087/854bbdfd-8b9b-4b5d-99d7-acf50ad68b0c)
 
 
