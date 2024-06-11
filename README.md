@@ -1,6 +1,7 @@
 # Open-Source Practice
 
-Welcome to the repository where you can raise a Pull Request to practice contributing to open-source projects! 🎉 Follow the steps below, or if you prefer, watch this instructional video: [VIDEO PLACEHOLDER].
+Welcome to the repository where you can raise a Pull Request to practice contributing to open-source projects! 🎉 Follow the steps below, or if you prefer, watch this video: 
+[Youtube video](https://youtu.be/OBILb7L65Ik?si=7QjuQuZD5x6OTSFd)
 
 <br/>
  
