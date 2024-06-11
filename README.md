@@ -6,7 +6,14 @@ Welcome to the repository where you can raise a Pull Request to practice contrib
  
 ## Tools
 
-Before we begin, ensure you have Git installed on your computer: [Download Git](https://www.git-scm.com/)
+Before we begin, ensure you have Git installed on your computer: [Download Git](https://www.git-scm.com/) <br/>
+You can verify that Git is installed by running the following command in your terminal :
+
+```bash
+git --version
+```
+
+![alt text](image.png)
 
 <br/>
 
@@ -14,7 +21,7 @@ Before we begin, ensure you have Git installed on your computer: [Download Git](
 
 ### 1. Fork This Repository
 
-- Click the gray "Fork" button at the top right of this page.
+- Click the gray `Fork` button at the top right of this page.
 - This creates a copy of the project in your GitHub account.
 
 <br/>
@@ -96,7 +103,7 @@ git clone https://github.com/Web-Dev-Crew/open-source-practice.git .
 ### 4. Send a Pull Request
 
 - Open your forked repository on GitHub.
-- Click on "Compare & pull request".
+- Click on `Compare & pull request`.
 - Ensure you are comparing the `Web-Dev-Crew/open-source-practice` `main` branch with your forked repository's branch that you made and switched into.
 - Write a title and description for your pull request.
 - Create your pull request.
