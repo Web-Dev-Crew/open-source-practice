@@ -31,16 +31,13 @@ git --version
 
 - After forking the repository, copy the repository URL.
 - Use the command below to clone the repository to your local machine:
-
-```bash
-git clone <repository_url> .
-```
-
-Example:
-
-```bash
-git clone https://github.com/Web-Dev-Crew/open-source-practice.git .
-```
+  ```bash
+  git clone <repository_url> .
+  ```
+  Example:
+  ```bash
+  git clone https://github.com/Web-Dev-Crew/open-source-practice.git .
+  ```
 
 <br/>
 
